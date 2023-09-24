@@ -10,8 +10,7 @@ lista_dict_casual = [{'Invierno': 0, 'Otoño':1, 'Primavera': 1.4, 'Verano': 1.5
 # regis:
 
 lista_dict_reg = [{'Invierno': 0, 'Otoño':2, 'Primavera': 2.4, 'Verano': 2.2}, {'2018':0, '2019':2}, {'enero':0, 'febrero':0.5, 'marzo':1,'diciembre': 1.5,'abril': 1.7,'noviembre': 2, 'mayo': 2.2, 'octubre':2.2, 'abril': 2, 'julio':2.2, 'septiembre':2.5, 'agosto':2.5, 'junio':2.7 },
-{'no_festivo': 1, 'festivo':0},
-{'miercoles':1, 'jueves':1.3, 'viernes':1.3, 'sabado':1, 'martes':0, 'lunes': 0, 'domingo':1}, {0:0, 1:1}, {3:0, 2:2, 1:2.5}]
+{0: 1, 1:0}, {'miercoles':1, 'jueves':1.3, 'viernes':1.3, 'sabado':1, 'martes':0, 'lunes': 0, 'domingo':1}, {0:0, 1:1}, {3:0, 2:2, 1:2.5}]
 
 
 # total:
