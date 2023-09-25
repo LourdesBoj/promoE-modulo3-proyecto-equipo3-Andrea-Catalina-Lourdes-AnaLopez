@@ -41,7 +41,7 @@ Las variables originales del dataset son:
 ## Estructura de las carpetas 
 
 En este repositorio se encuentran tres carpetas: una llamada 'data', otra 'graficas' y otra "notebooks", además de este README. Dentro de la carpeta 'data' se encuentran todos los archivos generados. Por otro lado, la carpeta de 'graficas' está compuesta por todas las imágenes correspondientes a las gráficas establecidas.
-La carpeta 'modelo_sin_estandarizar' está dividida por dos carpetas: 'modelo_outliers_gestionados' y 'modelo_outliers_sin_gestionar' para separar el proceso de trabajo de los modelos creados. Estas carpetas a su vez están divididas por tres carpetas: 'data' que contiene los archivos generados a partir del análisis, "gráficas" donde están almacenadas las imágenes de las gráficas obntenidas a partir del análisis y "notebooks" donde se encuentran todos los jupyters realizados. Por último, la carpeta "notebooks" contiene los archivos jupyter donde se ha realizado el EDA, los modelos de predicción y las predicciones.
+Por último, la carpeta "notebooks" contiene los archivos jupyter donde se ha realizado el EDA, los modelos de predicción y las predicciones.
 
 ## Lenguajes utilizados
 * Python 3.10.11
@@ -61,3 +61,5 @@ La carpeta 'modelo_sin_estandarizar' está dividida por dos carpetas: 'modelo_ou
 * [Imblearn](https://pypi.org/project/imblearn/)
 * [Datetime](https://docs.python.org/es/3.10/library/datetime.html)
 
+## Herramienta utilizada
+* [Tableau](https://www.tableau.com/es-es/community/public)
