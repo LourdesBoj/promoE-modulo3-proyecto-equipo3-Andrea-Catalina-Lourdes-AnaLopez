@@ -50,7 +50,6 @@ La carpeta 'modelo_sin_estandarizar' está dividida por dos carpetas: 'modelo_ou
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Requests](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
-* [Geopy](https://geopy.readthedocs.io/en/stable/)
 * [Matplotlib](https://matplotlib.org/stable/users/index.html/)
 * [Seaborn](https://seaborn.pydata.org/tutorial.html/)
 * [Statsmodels](https://www.statsmodels.org/devel/user-guide.html/)
