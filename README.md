@@ -13,7 +13,7 @@ En este proyecto se van a analizar cuáles son los aspectos que más influyen en
 
 También se harán varios modelos de Machine Learning que nos permitan realizar predicciones de cuántas bicicletas se van a alquilar en un día. 
 
-##Características del dataset:
+## Características del dataset:
 =========================================	
 Las variables originales del dataset son:
 	
